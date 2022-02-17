@@ -1,59 +1,7 @@
-## Introduction
+You often get a better visual effect by diffusing (spreading out) the light from an LED, especially if you are using clear LEDs or RGB LEDs that mix multiple colours. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Placing an LED behind a material such as thin paper or invisible sticky tape will spread the light over a larger area and create a softer effect that is nicer to look at. 
 
-### What you will make
+![desc](images/path)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+You can also use a white material, such as paper to direct light in the direction you want it to be seen from so that you make the most of the light from the LED. 
