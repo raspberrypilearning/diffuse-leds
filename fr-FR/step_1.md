@@ -1,7 +1,7 @@
-You often get a better visual effect by diffusing (spreading out) the light from an LED, especially if you are using clear LEDs or RGB LEDs that mix multiple colours.
+Tu obtiens souvent un meilleur effet visuel en diffusant (étalant) la lumière d'une LED, surtout si tu utilises des LED claires ou des LED RVB qui mélangent plusieurs couleurs.
 
-Placing an LED behind a material such as thin paper, tracing paper or invisible sticky tape will spread the light over a larger area and create a softer effect that is nicer to look at.
+Placer une LED derrière un matériau tel que du papier fin, du papier calque ou du ruban adhésif invisible diffusera la lumière sur une plus grande surface et créera un effet plus doux et plus agréable à regarder.
 
-![A piece of tracing paper has been wrapped around a paper cup. An RGB LED is inside which lights the tracing paper in different colours depending on how many times the button has been pressed.](images/mood-lamp.gif)
+![Un morceau de papier calque a été enroulé autour d'un gobelet en papier. Une LED RVB se trouve à l'intérieur qui éclaire le papier calque de différentes couleurs en fonction du nombre de fois que le bouton a été enfoncé.](images/mood-lamp.gif)
 
-You can also use a white material, such as paper to direct light in the direction you want it to be seen from so that you make the most of the light from the LED. 
+Tu peux également utiliser un matériau blanc, tel que du papier, pour diriger la lumière dans la direction dans laquelle tu souhaites qu'elle soit vue afin de tirer le meilleur parti de la lumière de la LED. 
