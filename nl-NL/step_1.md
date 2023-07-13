@@ -4,4 +4,4 @@ Door een LED achter een materiaal zoals dun papier, overtrekpapier of onzichtbaa
 
 ![Een stuk overtrekpapier is om een papieren beker gewikkeld. Er zit een RGB-LED in, die het overtrekpapier in verschillende kleuren verlicht, afhankelijk van het aantal keren dat de knop is ingedrukt.](images/mood-lamp.gif)
 
-Je kan ook een wit materiaal gebruiken, zoals papier, om het licht te laten schijnen in de richting waarvan jij het wil laten zien, zodat je het licht van de LED optimaal benut.
+Je kunt ook een wit materiaal gebruiken, zoals papier, om het licht te laten schijnen in de richting waarin jij het wil laten zien, zodat je het licht van de LED optimaal benut.
